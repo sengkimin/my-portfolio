@@ -163,6 +163,43 @@ line-height: 28px;
     width: 100%;
     height: 720px;
     background-color:#F6BFEA;
+
+}
+.bii{
+    width: 86%;
+    height: 220px;
+    background-color: aquamarine;
+    margin: auto;
+    margin-top: 20px;
+
+  
+}
+.bii img{
+    width: 100%;
+    height: 100%;
+}
+.bii-1{
+    width: 86%;
+    height: 220px;
+    background-color: aquamarine;
+    margin: auto;
+    margin-top: 20px;
+}
+.bii-1 img{
+    width: 100%;
+    height: 100%;
+}
+.bii-2{
+    width: 86%;
+    height: 220px;
+    background-color: aquamarine;
+    margin: auto;
+    margin-top: 20px;
+}
+.bii-2 img{
+    width: 100%;
+    height: 100%;
+   
 }
 
 
